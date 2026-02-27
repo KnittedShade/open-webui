@@ -2820,7 +2820,7 @@ requires-dist = [
     { name = "pymongo" },
     { name = "pymysql", specifier = "==1.1.1" },
     { name = "pypandoc", specifier = "==1.15" },
-    { name = "pypdf", specifier = "==4.3.1" },
+    { name = "pypdf", specifier = "==6.7.3" },
     { name = "pytest", specifier = "~=8.3.2" },
     { name = "pytest-docker", specifier = "~=3.1.1" },
     { name = "python-jose", specifier = "==3.4.0" },
@@ -3706,11 +3706,11 @@ wheels = [
 
 [[package]]
 name = "pypdf"
-version = "4.3.1"
+version = "6.7.3"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/f0/65/2ed7c9e1d31d860f096061b3dd2d665f501e09faaa0409a3f0d719d2a16d/pypdf-4.3.1.tar.gz", hash = "sha256:b2f37fe9a3030aa97ca86067a56ba3f9d3565f9a791b305c7355d8392c30d91b", size = 293266, upload-time = "2024-07-21T19:35:20.207Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/53/9b/63e767042fc852384dc71e5ff6f990ee4e1b165b1526cf3f9c23a4eebb47/pypdf-6.7.3.tar.gz", hash = "sha256:eca55c78d0ec7baa06f9288e2be5c4e8242d5cbb62c7a4b94f2716f8e50076d2", size = 5303304, upload-time = "2026-02-24T17:23:11.42Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/3c/60/eccdd92dd4af3e4bea6d6a342f7588c618a15b9bec4b968af581e498bcc4/pypdf-4.3.1-py3-none-any.whl", hash = "sha256:64b31da97eda0771ef22edb1bfecd5deee4b72c3d1736b7df2689805076d6418", size = 295825, upload-time = "2024-07-21T19:35:18.126Z" },
+    { url = "https://files.pythonhosted.org/packages/b0/90/3308a9b8b46c1424181fdf3f4580d2b423c5471425799e7fc62f92d183f4/pypdf-6.7.3-py3-none-any.whl", hash = "sha256:cd25ac508f20b554a9fafd825186e3ba29591a69b78c156783c5d8a2d63a1c0a", size = 331263, upload-time = "2026-02-24T17:23:09.932Z" },
 ]
 
 [[package]]
